@@ -1,4 +1,4 @@
-# ecom-backend
+# ecom-frontend
 Ecommercewebsite- MERN Project 
 ( React JS, MongoDB, Express JS, Node JS)
 
@@ -11,6 +11,7 @@ Welcome to Bookshelf, a simple web application for organizing and managing your 
 3. Only admin have a access to add the products.
 4. Responsive design for seamless usage on different devices.
 5. Add to cart functionality also available
+6. user is able to add comments/message in that application.
 
 # Technologies Used
 
@@ -45,7 +46,7 @@ Login page
 ![image](https://github.com/shubham5538/ecom-Frontend/assets/80771033/92490d49-63ab-4248-beff-61c393375868)
 
 Home Page 
-![image](https://github.com/shubham5538/ecom-Frontend/assets/80771033/1900ec78-0fb9-409d-8ca6-e5dd2f079a40)
+![image](https://github.com/shubham5538/ecom-Frontend/assets/80771033/733c855a-a8fd-4e93-8034-8d2036ffff4a)
 
 Add cart Page 
 ![image](https://github.com/shubham5538/ecom-Frontend/assets/80771033/fe859d6b-77de-4f40-bf61-96f50ee86ad8)
