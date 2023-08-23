@@ -1,8 +1,8 @@
 # ecom-frontend
-Ecommercewebsite- MERN Project 
+Ecommerce Website- MERN Project 
 ( React JS, MongoDB, Express JS, Node JS)
 
-Welcome to Bookshelf, a simple web application for organizing and managing your books collection.
+Welcome to Ecommerce Website, a simple web applicationfor your Online Shopping Website.
 
 # Features
 
@@ -23,13 +23,12 @@ Welcome to Bookshelf, a simple web application for organizing and managing your 
 
 # Getting Started
 
-1. Clone this repository: git clone https://github.com/shubham5538/bookshelf.git
+1. Clone this repository: git clone https://github.com/shubham5538/ecom-Frontend.git
 2. Install dependencies: npm install
-3. Configure your database settings in index.js.
-4. Change the directorie in frontend (frontend) by using this command -    cd frontend
-5. Change the directorie in backend (backend) by using this command  -      cd backend
-6. Run the application: npm start for frontend and node index.js for backend
-7. Open your browser and visit: http://localhost:3000
+3. Change the directorie in frontend (frontend) by using this command -    cd frontend
+4. Change the directorie in backend (backend) by using this command  -      cd backend
+5. Run the application: npm start for frontend 
+6. Open your browser and visit: http://localhost:3000
 
  
 # Author
