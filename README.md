@@ -7,11 +7,12 @@ Welcome to Bookshelf, a simple web application for organizing and managing your 
 # Features
 
 1. Login/ Signup functionality.
-2. See the available items before login if user want to add them to cart then they need to Signup and login
-3. Only admin have a access to add the products.
-4. Responsive design for seamless usage on different devices.
-5. Add to cart functionality also available
-6. user is able to add comments/message in that application.
+2. User able to Upload profile Picture while Signup.
+3. See the available items before login if user want to add them to cart then they need to Signup and login
+4. Only admin have a access to add the products.
+5. Responsive design for seamless usage on different devices.
+6. Add to cart functionality also available
+7. user is able to add comments/message in that application.
 
 # Technologies Used
 
@@ -38,7 +39,7 @@ Shubham Patil
 # Contact
 email- shubhampatil080699@gmail.com
 
-
+Deployed link - 
 
 
 Please find below Screenshots for Ecom Website
