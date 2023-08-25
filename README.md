@@ -1,70 +1,54 @@
-# Getting Started with Create React App
+# ecom-frontend
+Ecommerce Website- MERN Project 
+( React JS, MongoDB, Express JS, Node JS)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to Ecommerce Website, a simple web applicationfor your Online Shopping Website.
 
-## Available Scripts
+# Features
 
-In the project directory, you can run:
+1. Login/ Signup functionality.
+2. User able to Upload profile Picture while Signup.
+3. See the available items before login if user want to add them to cart then they need to Signup and login
+4. Only admin have a access to add the products.
+5. Responsive design for seamless usage on different devices.
+6. Add to cart functionality also available
+7. user is able to add comments/message in that application.
 
-### `npm start`
+# Technologies Used
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1. HTML, CSS, and ReactJs for the frontend.
+2. Node.js and Express for the backend.
+3. MongoDB for the database.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+# Getting Started
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. Clone this repository: git clone https://github.com/shubham5538/ecom-Frontend.git
+2. Install dependencies: npm install
+3. Change the directorie in frontend (frontend) by using this command -    cd frontend
+4. Change the directorie in backend (backend) by using this command  -      cd backend
+5. Run the application: npm start for frontend 
+6. Open your browser and visit: http://localhost:3000
 
-### `npm run build`
+ 
+# Author
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Shubham Patil
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# Contact
+email- shubhampatil080699@gmail.com
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Deployed link - https://ecom-frontend-t3sr-lb2iay4q9-shubham5538.vercel.app/
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Please find below Screenshots for Ecom Website
+Login page
+![image](https://github.com/shubham5538/ecom-Frontend/assets/80771033/92490d49-63ab-4248-beff-61c393375868)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Home Page 
+![image](https://github.com/shubham5538/ecom-Frontend/assets/80771033/733c855a-a8fd-4e93-8034-8d2036ffff4a)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Add cart Page 
+![image](https://github.com/shubham5538/ecom-Frontend/assets/80771033/fe859d6b-77de-4f40-bf61-96f50ee86ad8)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
